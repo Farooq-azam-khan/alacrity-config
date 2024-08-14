@@ -8,3 +8,6 @@ unzip Meslo.zip
 fc-cache -f -v
 rm Meslo.zip
 ```
+2. `mkdir -p ~/.config/alacritty/alacritty.toml`
+3. install themes here https://github.com/alacritty/alacritty-theme
+4. `wget -O [folder location] [alacritty.toml file location in this github repo]`
